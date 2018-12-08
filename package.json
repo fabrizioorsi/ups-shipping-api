@@ -1,0 +1,68 @@
+{
+  "_from": "ups-shipping-api",
+  "_id": "ups-shipping-api@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-8sqdMjo21ip50ISbiiogReQO4PuKm40d9RN3ySwZW35egplr7q0HSXdmjGav/TZCAahzw67WJMpCIGwb0YqLqQ==",
+  "_location": "/ups-shipping-api",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ups-shipping-api",
+    "name": "ups-shipping-api",
+    "escapedName": "ups-shipping-api",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ups-shipping-api/-/ups-shipping-api-1.0.0.tgz",
+  "_shasum": "38430a7a356c36d8a472d15e22497d7d6ad03aeb",
+  "_spec": "ups-shipping-api",
+  "_where": "/Users/paulazuniga/onsenui-vue-cordova-test/vuely-v4.3.0/vuely/functions",
+  "author": {
+    "name": "uladkasach"
+  },
+  "bugs": {
+    "url": "https://github.com/uladkasach/ups-shipping-api/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "api-request-simple": "^1.3.1",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  },
+  "deprecated": false,
+  "description": "An easy to use and well tested interface for interacting with UPS api.",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "homepage": "https://github.com/uladkasach/ups-shipping-api#readme",
+  "keywords": [
+    "ups",
+    "shipping",
+    "api",
+    "UPS",
+    "usps",
+    "postage",
+    "parcel",
+    "shipment"
+  ],
+  "license": "ISC",
+  "main": "src/index.js",
+  "name": "ups-shipping-api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uladkasach/ups-shipping-api.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "1.0.0"
+}
